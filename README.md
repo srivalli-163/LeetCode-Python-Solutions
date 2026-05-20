@@ -33,3 +33,4 @@
 | 030 | Substring with Concatenation of All Words | [Python](30_SubstringWithConcatenationOfAllWords.py) | Hard |
 | 031 | Next Permutation | [Python](31_NextPermutation.py) | Medium |
 | 032 | Longest Valid Parentheses | [Python](32_LongestValidParentheses.py) | Hard |
+| 33 | Search in Rotated Sorted Array | [Python](33_SearchInRotatedSortedArray.py) | Medium |
