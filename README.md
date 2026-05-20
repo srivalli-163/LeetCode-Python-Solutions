@@ -4,7 +4,7 @@
 | 001 | Two Sum | [Python](1_TwoSum.py) | Easy |
 | 002 | Add Two Numbers | [Python](2_AddTwoNumbers) | Medium |
 | 003 | Longest Substring Without Repeating Characters | [Python](3_LongestSubstringWithoutRepeatingCharacters.py) | Medium |
-| 004 | Median of Two Sorted Arrays | [Python](4_ Median of Two Sorted Arrays) | Hard |
+| 004 | Median of Two Sorted Arrays | [Python](4_MedianOfTwoSortedArrays.py) | Hard |
 | 005 | Longest Palindromic Substring | [Python](5_Longest Palindromic Substring) | Medium |
 | 006 | Zigzag Conversion | [Python](6_ZigzagConversion) | Medium |
 | 007 | Reverse Integer | [Python](7_ReverseInteger) | Medium |
