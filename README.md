@@ -52,3 +52,4 @@
 | 049 | Group Anagrams | [Python](49_GroupAnagrams.py) | Medium |
 | 050 | Pow(x, n) | [Python](50_PowXN.py) | Medium |
 | 051 | N-Queens | [Python](51_NQueens.py) | Hard |
+| 052 | N-Queens II | [Python](52_NQueensII.py) | Hard |
