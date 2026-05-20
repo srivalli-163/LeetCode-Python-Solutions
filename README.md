@@ -48,3 +48,4 @@
 | 045 | Jump Game II | [Python](45_JumpGameII.py) | Hard |
 | 046 | Permutations | [Python](46_Permutations.py) | Medium |
 | 047 | Permutations II | [Python](47_PermutationsII.py) | Medium |
+| 048 | Rotate Image | [Python](48_RotateImage.py) | Medium |
