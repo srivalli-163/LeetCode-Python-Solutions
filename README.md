@@ -27,3 +27,4 @@
 | 024 | Swap Nodes in Pairs | [Python](24_SwapNodesInPairs.py) | Medium |
 | 025 | Reverse Nodes in k-Group | [Python](25_ReverseNodesInKGroup.py) | Hard |
 | 026 | Remove Duplicates from Sorted Array | [Python](26_RemoveDuplicatesSortedArray.py) | Easy |
+| 027 | Remove Element | [Python](27_RemoveElement.py) | Easy |
