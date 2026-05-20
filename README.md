@@ -20,3 +20,4 @@
 | 017 | Letter Combinations of a Phone Number | [Python](17_LetterCombinationsOfPhoneNumber.py) | Medium |
 | 018 | 4Sum | [Python](18_4Sum.py) | Medium |
 | 019 | Remove Nth Node From End of List | [Python](19_RemoveNthNodeFromEnd.py) | Medium |
+| 020 | Valid Parentheses | [Python](20_ValidParentheses.py) | Easy |
