@@ -30,3 +30,4 @@
 | 027 | Remove Element | [Python](27_RemoveElement.py) | Easy |
 | 028 | Implement strStr() | [Python](28_ImplementStrStr.py) | Easy |
 | 029 | Divide Two Integers | [Python](29_DivideTwoIntegers.py) | Medium |
+| 030 | Substring with Concatenation of All Words | [Python](30_SubstringWithConcatenationOfAllWords.py) | Hard |
