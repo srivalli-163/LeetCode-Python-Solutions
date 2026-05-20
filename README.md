@@ -18,3 +18,4 @@
 | 015 | 3Sum | [Python](15_3Sum.py) | Medium |
 | 016 | 3Sum Closest | [Python](16_3SumClosest.py) | Medium |
 | 017 | Letter Combinations of a Phone Number | [Python](17_LetterCombinationsOfPhoneNumber.py) | Medium |
+| 018 | 4Sum | [Python](18_4Sum.py) | Medium |
