@@ -49,3 +49,4 @@
 | 046 | Permutations | [Python](46_Permutations.py) | Medium |
 | 047 | Permutations II | [Python](47_PermutationsII.py) | Medium |
 | 048 | Rotate Image | [Python](48_RotateImage.py) | Medium |
+| 049 | Group Anagrams | [Python](49_GroupAnagrams.py) | Medium |
