@@ -51,3 +51,4 @@
 | 048 | Rotate Image | [Python](48_RotateImage.py) | Medium |
 | 049 | Group Anagrams | [Python](49_GroupAnagrams.py) | Medium |
 | 050 | Pow(x, n) | [Python](50_PowXN.py) | Medium |
+| 051 | N-Queens | [Python](51_NQueens.py) | Hard |
