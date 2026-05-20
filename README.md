@@ -24,3 +24,4 @@
 | 021 | Merge Two Sorted Lists | [Python](21_MergeTwoSortedLists.py) | Easy |
 | 022 | Generate Parentheses | [Python](22_GenerateParentheses.py) | Medium |
 | 023 | Merge K Sorted Lists | [Python](23_MergeKSortedLists.py) | Hard |
+| 024 | Swap Nodes in Pairs | [Python](24_SwapNodesInPairs.py) | Medium |
