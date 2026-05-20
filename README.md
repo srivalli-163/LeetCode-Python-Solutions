@@ -25,3 +25,4 @@
 | 022 | Generate Parentheses | [Python](22_GenerateParentheses.py) | Medium |
 | 023 | Merge K Sorted Lists | [Python](23_MergeKSortedLists.py) | Hard |
 | 024 | Swap Nodes in Pairs | [Python](24_SwapNodesInPairs.py) | Medium |
+| 025 | Reverse Nodes in k-Group | [Python](25_ReverseNodesInKGroup.py) | Hard |
