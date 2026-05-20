@@ -28,3 +28,4 @@
 | 025 | Reverse Nodes in k-Group | [Python](25_ReverseNodesInKGroup.py) | Hard |
 | 026 | Remove Duplicates from Sorted Array | [Python](26_RemoveDuplicatesSortedArray.py) | Easy |
 | 027 | Remove Element | [Python](27_RemoveElement.py) | Easy |
+| 28 | Implement strStr() | [Python](28_ImplementStrStr.py) | Easy |
