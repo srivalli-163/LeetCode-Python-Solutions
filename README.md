@@ -38,3 +38,4 @@
 | 035 | Search Insert Position | [Python](35_SearchInsertPosition.py) | Easy |
 | 036 | Valid Sudoku | [Python](36_ValidSudoku.py) | Medium |
 | 037 | Sudoku Solver | [Python](37_SudokuSolver.py) | Hard |
+| 038 | Count and Say | [Python](38_CountAndSay.py) | Easy |
