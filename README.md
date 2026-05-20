@@ -14,3 +14,4 @@
 | 011 | Container With Most Water | [Python](11_ContainerWithMostWater.py) | Medium |
 | 012 | Integer to Roman | [Python](12_IntegerToRoman.py) | Medium |
 | 013 | Roman to Integer | [Python](13_RomanToInteger.py) | Easy |
+| 014 | Longest Common Prefix | [Python](14_LongestCommonPrefix.py) | Easy |
