@@ -44,3 +44,4 @@
 | 041 | First Missing Positive | [Python](41_FirstMissingPositive.py) | Hard |
 | 042 | Trapping Rain Water | [Python](42_TrappingRainWater.py) | Hard |
 | 043 | Multiply Strings | [Python](43_MultiplyStrings.py) | Medium |
+| 044 | Wildcard Matching | [Python](44_WildcardMatching.py) | Hard |
