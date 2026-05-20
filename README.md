@@ -46,3 +46,4 @@
 | 043 | Multiply Strings | [Python](43_MultiplyStrings.py) | Medium |
 | 044 | Wildcard Matching | [Python](44_WildcardMatching.py) | Hard |
 | 045 | Jump Game II | [Python](45_JumpGameII.py) | Hard |
+| 046 | Permutations | [Python](46_Permutations.py) | Medium |
