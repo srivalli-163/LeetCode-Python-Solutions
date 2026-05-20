@@ -10,7 +10,7 @@
 | 007 | Reverse Integer | [Python](7_ReverseInteger) | Medium |
 | 008 | String to Integer (atoi) | [Python](8_StringtoInteger) | Medium |
 | 009 | Palindrome Number | [Python](9_PalindromeNumber) | Easy |
-| 010 | Regular Expression Matching | [Python](10_RegularExpressionMatching.py) | Hard |
+| 010 | Regular Expression Matching | [Python](Python/10_RegularExpressionMatching.py) | Hard |
 | 011 | Container With Most Water | [Python](11_ContainerWithMostWater.py) | Medium |
 | 012 | Integer to Roman | [Python](12_IntegerToRoman.py) | Medium |
 | 013 | Roman to Integer | [Python](13_RomanToInteger.py) | Easy |
