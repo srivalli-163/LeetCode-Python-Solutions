@@ -56,3 +56,4 @@
 | 053 | Maximum Subarray | [Python](53_MaximumSubarray.py) | Easy |
 | 054 | Spiral Matrix | [Python](54_SpiralMatrix.py) | Medium |
 | 055 | Jump Game | [Python](55_JumpGame.py) | Medium |
+| 056 | Merge Intervals | [Python](56_MergeIntervals.py) | Medium |
