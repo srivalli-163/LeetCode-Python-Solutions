@@ -54,3 +54,4 @@
 | 051 | N-Queens | [Python](51_NQueens.py) | Hard |
 | 052 | N-Queens II | [Python](52_NQueensII.py) | Hard |
 | 053 | Maximum Subarray | [Python](53_MaximumSubarray.py) | Easy |
+| 054 | Spiral Matrix | [Python](54_SpiralMatrix.py) | Medium |
