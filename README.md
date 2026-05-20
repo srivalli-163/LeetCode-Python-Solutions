@@ -50,3 +50,4 @@
 | 047 | Permutations II | [Python](47_PermutationsII.py) | Medium |
 | 048 | Rotate Image | [Python](48_RotateImage.py) | Medium |
 | 049 | Group Anagrams | [Python](49_GroupAnagrams.py) | Medium |
+| 050 | Pow(x, n) | [Python](50_PowXN.py) | Medium |
