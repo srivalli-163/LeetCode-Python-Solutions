@@ -22,4 +22,4 @@
 | 019 | Remove Nth Node From End of List | [Python](19_RemoveNthNodeFromEnd.py) | Medium |
 | 020 | Valid Parentheses | [Python](20_ValidParentheses.py) | Easy |
 | 021 | Merge Two Sorted Lists | [Python](21_MergeTwoSortedLists.py) | Easy |
-| 22 | Generate Parentheses | [Python](22_GenerateParentheses.py) | Medium |
+| 022 | Generate Parentheses | [Python](22_GenerateParentheses.py) | Medium |
