@@ -32,3 +32,4 @@
 | 029 | Divide Two Integers | [Python](29_DivideTwoIntegers.py) | Medium |
 | 030 | Substring with Concatenation of All Words | [Python](30_SubstringWithConcatenationOfAllWords.py) | Hard |
 | 031 | Next Permutation | [Python](31_NextPermutation.py) | Medium |
+| 032 | Longest Valid Parentheses | [Python](32_LongestValidParentheses.py) | Hard |
