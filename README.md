@@ -36,3 +36,4 @@
 | 033 | Search in Rotated Sorted Array | [Python](33_SearchInRotatedSortedArray.py) | Medium |
 | 034 | Find First and Last Position of Element | [Python](34_FindFirstAndLastPosition.py) | Medium |
 | 035 | Search Insert Position | [Python](35_SearchInsertPosition.py) | Easy |
+| 036 | Valid Sudoku | [Python](36_ValidSudoku.py) | Medium |
