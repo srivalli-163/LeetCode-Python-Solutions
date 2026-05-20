@@ -42,3 +42,4 @@
 | 039 | Combination Sum | [Python](39_CombinationSum.py) | Medium |
 | 040 | Combination Sum II | [Python](40_CombinationSumII.py) | Medium |
 | 041 | First Missing Positive | [Python](41_FirstMissingPositive.py) | Hard |
+| 042 | Trapping Rain Water | [Python](42_TrappingRainWater.py) | Hard |
