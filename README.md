@@ -41,3 +41,4 @@
 | 038 | Count and Say | [Python](38_CountAndSay.py) | Easy |
 | 039 | Combination Sum | [Python](39_CombinationSum.py) | Medium |
 | 040 | Combination Sum II | [Python](40_CombinationSumII.py) | Medium |
+| 041 | First Missing Positive | [Python](41_FirstMissingPositive.py) | Hard |
