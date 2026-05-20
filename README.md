@@ -16,3 +16,4 @@
 | 013 | Roman to Integer | [Python](13_RomanToInteger.py) | Easy |
 | 014 | Longest Common Prefix | [Python](14_LongestCommonPrefix.py) | Easy |
 | 015 | 3Sum | [Python](15_3Sum.py) | Medium |
+| 016 | 3Sum Closest | [Python](16_3SumClosest.py) | Medium |
