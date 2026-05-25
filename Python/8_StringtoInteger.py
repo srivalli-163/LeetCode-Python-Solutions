@@ -1,31 +1,37 @@
 class Solution(object):
     def myAtoi(self, s):
-        s = s.strip()
-
-        if len(s) == 0:
+        """
+        :type s: str
+        :rtype: int
+        """
+        s = s.lstrip()
+        
+        if not s:
             return 0
-
-        flag = 1
-
-        if s[0] in ["+", "-"]:
-            if s[0] == "-":
-                flag = -1
-            s = s[1:]
-
-        ans = 0
-
-        for c in s:
-            if "0" <= c <= "9":
-                ans = ans * 10 + ord(c) - ord("0")
-            else:
-                break
-
-        ans *= flag
-
-        if ans < -2 ** 31:
-            return -2 ** 31
-
-        if ans > 2 ** 31 - 1:
-            return 2 ** 31 - 1
-
-        return ans
+        
+        sign = 1
+        i = 0
+        
+        if s[i] == '-':
+            sign = -1
+            i += 1
+        elif s[i] == '+':
+            i += 1
+        
+        num = 0
+        
+        while i < len(s) and s[i].isdigit():
+            num = num * 10 + int(s[i])
+            i += 1
+        
+        num *= sign
+        
+        INT_MIN = -2**31
+        INT_MAX = 2**31 - 1
+        
+        if num < INT_MIN:
+            return INT_MIN
+        if num > INT_MAX:
+            return INT_MAX
+        
+        return num
