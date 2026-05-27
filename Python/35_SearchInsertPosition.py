@@ -1,22 +1,15 @@
-# Binary search
 class Solution(object):
     def searchInsert(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: int
-        """
         l, r = 0, len(nums) - 1
+
         while l <= r:
             mid = l + (r - l) // 2
-            if target == nums[mid]:
+
+            if nums[mid] == target:
                 return mid
-            elif (target < nums[mid] and
-                (mid == 0 or target > nums[mid - 1])):
-                return mid
-            elif target > nums[mid] and mid == len(nums) - 1:
-                return mid + 1
-            elif target > nums[mid]:
+            elif nums[mid] < target:
                 l = mid + 1
             else:
                 r = mid - 1
+
+        return l
